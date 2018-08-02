@@ -11,7 +11,7 @@ us on [Hyperledger's Rocket.Chat](https://chat.hyperledger.org/) at #indy-sdk to
 
 ## Understanding Hyperledger Indy
 
-If you have just started learning about self-sovereign identity, here are some resources to increase your understanding:
+If you've just started learning about self-sovereign identity, here are some resources to increase your understanding:
 
 * This extended tutorial introduces Indy, explains how the whole ecosystem works, and how the
 functions in the SDK can be used to construct rich clients: [Indy-SDK Getting-Started Guide](doc/getting-started/getting-started.md)
